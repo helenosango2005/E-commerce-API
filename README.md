@@ -34,7 +34,7 @@ Esta é uma API de e-commerce desenvolvida em Python utilizando o framework Flas
    git clone https://github.com/seu-usuario/seu-repositorio.git  
 2. Navegue até o diretório do projeto:
    ```bash
-  cd seu-repositorio
+    cd seu-repositorio
 3. Instale as dependências:
    ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
